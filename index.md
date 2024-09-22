@@ -71,7 +71,7 @@ C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/Bzf
 
 ---
 
-# **Registrazioni, sbobine e appunti** {#registrazioni,-sbobine-e-appunti}
+# **Registrazioni, sbobine e appunti** {#registrazioni}
 
 Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova tutto sul drive\!
 
@@ -112,12 +112,12 @@ Si può consultare su
 
 # **Esami** {#esami}
 
-## ✍️ Esame scritto, di lingua {#✍️-esame-scritto,-di-lingua}
+## ✍️ Esame scritto, di lingua {#esame-scritto}
 
 in via noto; il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).  
 Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
 
-### Info ufficiali (da MyAriel) {#info-ufficiali-(da-myariel)}
+### Info ufficiali (da MyAriel) {#info-ufficiali-1}
 
 *L'esame prevede un test obbligatorio e preliminare di accertamento linguistico con **appelli a gennaio, maggio e settembre**.*  
 *Il test si svolge di norma in modalità informatica e consiste in **30 domande a risposta aperta o chiusa su grammatica, lessico e comprensione, a partire da un brano di prosa** latina d'autore. Il voto è espresso in 30/30 (risposta corretta \= 1; risposta sbagliata o mancante \= 0). Non è ammesso l'uso del vocabolario.*  
@@ -128,12 +128,12 @@ Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizio
 
 ‼️[In fondo alla pagina MyAriel](https://myariel.unimi.it/course/view.php?id=3389#section-5) del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
 
-## 🗣️ Esame orale, di letteratura {#🗣️-esame-orale,-di-letteratura}
+## 🗣️ Esame orale, di letteratura {#esame-orale}
 
 Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto:  
 Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure, *analisi metrica* di 1 verso solo.
 
-### Info ufficiali (da MyAriel) {#info-ufficiali-(da-myariel)-1}
+### Info ufficiali (da MyAriel) {#info-ufficiali-2}
 
 *L'esame orale consiste in **quattro domande (una domanda su ciascuna delle parti del corso** – vedi il programma – più **una domanda sulla storia della letteratura**).*  
 *Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
@@ -182,11 +182,11 @@ Inoltre, ci sono [a questa pagina MyAriel](https://myariel.unimi.it/mod/folder/v
 
 ---
 
-# **😱 Non so nulla della lingua** {#😱-non-so-nulla-della-lingua}
+# **😱 Non so nulla della lingua** {#non-so-nulla-della-lingua}
 
 Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non sei sol\* 🩷
 
-## Livello base (latino zero / morfosintassi di base) {#livello-base-(latino-zero-/-morfosintassi-di-base)}
+## Livello base (latino zero / morfosintassi di base) {#livello-base}
 
 ⚠️ Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
 
@@ -198,7 +198,7 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
    \- SITO WEB: [latinopratico.it](http://latinopratico.it). Pagine di spiegazione, con esercizi interattivi. Ottimo.  
    \- 30 VIDEOLEZIONI sempre sue (durata media 8 minuti, [qui su Youtube](https://www.youtube.com/playlist?list=PLX0bvnnRgy7dgZUFViOc2FYQMZXve2wOI)): ricalcano il sito.
 
-## Livello avanzato (il resto della morfosintassi) {#livello-avanzato-(il-resto-della-morfosintassi)}
+## Livello avanzato (il resto della morfosintassi) {#livello-avanzato}
 
 🔴 È **da raggiungere durante il corso, per capire quello che viene detto a lezione** quando si analizzano i testi. Necessario per l’esame.  
 Non ti preoccupare: i professori tengono conto che stiamo seguendo le esercitazioni, e quindi scopriamo pian piano la morfosintassi avanzata.
