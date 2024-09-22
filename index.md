@@ -1,0 +1,218 @@
+# Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
+
+🔴 Ultimo aggiornamento della pagina: 20 settembre 2024, 19.30  
+⚠️ Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/) ;) ma è condivisione libera e senza secondi fini 🙂
+
+##### Sommario della pagina
+
+[Orario](#orario)
+
+[Info generali](#info-generali)
+
+[Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
+
+[Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
+
+[Registrazioni](#registrazioni)
+
+[Programma](#programma)
+
+[Esami](#esami)
+
+[✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
+
+[Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
+
+[Simulazioni su Myariel](#simulazioni-su-myariel)
+
+[🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
+
+[Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
+
+[Esercitazioni](#esercitazioni)
+
+[Info](#info)
+
+[Tutorato](#tutorato)
+
+[Materiali aggiuntivi su Ariel](#materiali-aggiuntivi-su-ariel)
+
+[😱 Non so nulla della lingua](#😱-non-so-nulla-della-lingua)
+
+[Livello base (latino zero / morfosintassi di base)](#livello-base-\(latino-zero-/-morfosintassi-di-base\))
+
+[Livello avanzato (il resto della morfosintassi)](#livello-avanzato-\(il-resto-della-morfosintassi\))
+
+# **Orario** {#orario}
+
+| Esercitazione | Lun | 18-19.30 | Online sul teams del corso | Prof: a seconda del gruppo |
+| :---- | :---- | :---- | :---- | :---- |
+| **Lezioni** | Mar | 12.30 | S. Sof M302 | prof. Gioseffi (**parte D**: De bello gallico) |
+|  | Mer | 14.30 | S. Sof M102 | prof. Formenti (**parte C**: libro 4 Eneide) |
+|  | Gio | 16.30 | Fdp 510 | prof. Mori (**parti A\&B**: *Heroides* di Ovidio) |
+|  | Ven | 14.30 | Fdp 510 | prof. Mori (**parti A\&B**) |
+
+***
+
+# **Info generali** {#info-generali}
+
+🔗 **Link del gruppo Whatsapp principale**: [https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49](https://chat.whatsapp.com/BXugPgEkGWr8qfToKQKv49) 
+
+C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/BzfHhZHvwGi43zbNf10fzv) link), ma con 150 iscritti, e sarebbe meglio migrare tutti verso il primo.
+
+✍🏻 **Link gruppo sbobine**: [https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl) 
+
+🧜🏻‍♀️ **Sito del corso MyAriel**: [https://myariel.unimi.it/course/view.php?id=3389](https://myariel.unimi.it/course/view.php?id=3389)   
+🎦 **Codice Teams**: 4p3o3z2
+
+🗂️ **Link Drive 2024-25**: [https://drive.google.com/drive/folders/1wj6Z5NMsjwsVbez0gSmvWLmVyTitCuH2](https://drive.google.com/drive/folders/1wj6Z5NMsjwsVbez0gSmvWLmVyTitCuH2) 
+
+(Lezioni 2022: [https://shorturl.at/sy5IN](https://shorturl.at/sy5IN))
+
+---
+
+# **Registrazioni, sbobine e appunti** {#registrazioni,-sbobine-e-appunti}
+
+Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova tutto sul drive\!
+
+🗂️ **sotto-cartella del Drive**: [✍️ Sbobine e appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link)
+
+### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
+
+Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️ (al 20 settembre: 28 membri; il calendario è ancora vuoto).
+
+🔗 **Link gruppo**: [https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl) 
+
+**📅 Excel col calendario delle sbobine:** [📅 Calendario sbobine](https://docs.google.com/spreadsheets/d/1VPMe76KXXJClVq-_oLu7VwCMfnuZyfnGdaptPUa8npM/edit?usp=drive_link), sul drive
+
+### **Registrazioni** {#registrazioni}
+
+📂 **sotto-cartella del Drive, colle registrazioni fatte da noi**: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link)
+
+Il prof Mori registra le sue lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
+
+---
+
+# **Programma** {#programma}
+
+Si può consultare su
+
+- ⭐ Versione leggibile, con link ai materiali, pdf sul drive**: [Programma LEGGIBILE Latino, A-H, 24-25 (Mori Formenti Gioseffi).pdf](https://drive.google.com/open?id=1MX1nlZqKeCntUQsTUSzEWd1YC9U5eu-o)**
+
+- [Pagina MyAriel del corso](https://myariel.unimi.it/mod/folder/view.php?id=55747), sezione Programma, bibliografia e modalità d’esame  
+- [Pagina del corso](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/letteratura-latina) sul sito unimi
+
+#### Validità programmi anni passati: messaggio pubblicato dal prof. Mori su Ariel:
+
+*Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di mettersi in contatto via email con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
+
+*Gli studenti potranno portare **integralmente i programmi dei corsi degli a.a. 2022/23 e 2023/24 di cui era docente responsabile in prof. Raschieri,** mentre a partire dall'appello di dicembre 2024 non sarà più possibile sostenere l'esame portando integralmente i corsi degli a.a. 2020/21 e 2021/22: di questi ultimi rimangono valide le parti C (Virgilio, Eneide, libro VI) e D (Cicerone, Pro Caelio), mentre per le parti A e B bisognerà far riferimento al programma di questo anno accademico (Ovidio, Heroides 16 e 17).*
+
+---
+
+# **Esami** {#esami}
+
+## ✍️ Esame scritto, di lingua {#✍️-esame-scritto,-di-lingua}
+
+in via noto; il primo sarà a fine gennaio (eccetto chi frequenta le esercitazioni).  
+Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizionario.
+
+### Info ufficiali (da MyAriel) {#info-ufficiali-(da-myariel)}
+
+*L'esame prevede un test obbligatorio e preliminare di accertamento linguistico con **appelli a gennaio, maggio e settembre**.*  
+*Il test si svolge di norma in modalità informatica e consiste in **30 domande a risposta aperta o chiusa su grammatica, lessico e comprensione, a partire da un brano di prosa** latina d'autore. Il voto è espresso in 30/30 (risposta corretta \= 1; risposta sbagliata o mancante \= 0). Non è ammesso l'uso del vocabolario.*  
+*I risultati sono comunicati tempestivamente sul sito Ariel e il superamento della prova è valido per tre anni.*  
+*NB: Sono esonerati da tale prova gli studenti/studentesse che nella scuola superiore avessero conseguito la certificazione linguistica di 'Latino, livello B2'.*
+
+### Simulazioni su Myariel {#simulazioni-su-myariel}
+
+‼️[In fondo alla pagina MyAriel](https://myariel.unimi.it/course/view.php?id=3389#section-5) del corso si trovano **10 simulazioni dei test d'esame scritto**, per auto valutarsi. (Il voto ottenuto non fa media ai fini dell'esame).
+
+## 🗣️ Esame orale, di letteratura {#🗣️-esame-orale,-di-letteratura}
+
+Per quanto riguarda la parte di lettura metrica, la prof Formenti ha detto:  
+Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure, *analisi metrica* di 1 verso solo.
+
+### Info ufficiali (da MyAriel) {#info-ufficiali-(da-myariel)-1}
+
+*L'esame orale consiste in **quattro domande (una domanda su ciascuna delle parti del corso** – vedi il programma – più **una domanda sulla storia della letteratura**).*  
+*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
+*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
+
+---
+
+# **Esercitazioni** {#esercitazioni}
+
+8 lezioni, online sul teams del corso. Prima lezione il 30 settembre, ultima il 25 novembre.   
+Siamo divisi in 3 gruppi (sulla base del cognome) con 3 professori diversi.
+
+**Come funziona l’esercitazione?**  
+La professoressa / il professore spiegano uno o più concetti di morfosintassi latina avanzata ([vedi sotto](#livello-avanzato-\(il-resto-della-morfosintassi\))); si fanno poi degli esercizi assieme, si viene chiamati per nome e si deve rispondere (non è un problema sbagliare :)
+
+## Info {#info}
+
+**Data/ora**: lunedì sera, 18-19.30
+
+🔴 Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. (Al 20 settembre non è ancora avvenuto lo smistamento).
+
+Frequentare dà la possibilità di accedere alle **prove intermedie:**   
+sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello ufficiale**.  
+Date delle prove:
+
+- 21 Ottobre, aula Cono2, via Noto  
+- 9 Dicembre, aula Cono2, via Noto
+
+⚠️ Iscriversi solo se si ha la ferma intenzione di dare l’esame quest’anno. C’è già stato terrorismo psicologico sul fatto che **se ci si iscrive quest’anno, non si può seguire l’anno prossimo\!** (pare, a causa di posti limitati)
+
+### Tutorato {#tutorato}
+
+Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica.
+
+---
+
+# **Materiali aggiuntivi su Ariel** {#materiali-aggiuntivi-su-ariel}
+
+Ogni professore carica testi e materiali della sua parte (A-B, C, D) nella sezione corrispondente della pagina MyAriel.
+
+Inoltre, ci sono [a questa pagina MyAriel](https://myariel.unimi.it/mod/folder/view.php?id=55749) dei materiali extra forniti “per lo studio autonomo”:
+
+- **Risorse per lo studio della lingua:** lessico di base, e videolezioni di qualità
+
+- #### **Risorse per prosodia e metrica latina:** videolezioni, e siti appositi
+
+---
+
+# **😱 Non so nulla della lingua** {#😱-non-so-nulla-della-lingua}
+
+Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non sei sol\* 🩷
+
+## Livello base (latino zero / morfosintassi di base) {#livello-base-(latino-zero-/-morfosintassi-di-base)}
+
+⚠️ Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
+
+1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
+
+2) Altrimenti, è fondamentale studiare per conto proprio **un buon manuale di grammatica latina**, va benissimo quello delle superiori.[^1]
+
+3) Meglio ancora: meno pesanti perché più interattive sono le **lezioni del prof. Luca Graverini** (Univ. di Siena):  
+   \- SITO WEB: [latinopratico.it](http://latinopratico.it). Pagine di spiegazione, con esercizi interattivi. Ottimo.  
+   \- 30 VIDEOLEZIONI sempre sue (durata media 8 minuti, [qui su Youtube](https://www.youtube.com/playlist?list=PLX0bvnnRgy7dgZUFViOc2FYQMZXve2wOI)): ricalcano il sito.
+
+## Livello avanzato (il resto della morfosintassi) {#livello-avanzato-(il-resto-della-morfosintassi)}
+
+🔴 È **da raggiungere durante il corso, per capire quello che viene detto a lezione** quando si analizzano i testi. Necessario per l’esame.  
+Non ti preoccupare: i professori tengono conto che stiamo seguendo le esercitazioni, e quindi scopriamo pian piano la morfosintassi avanzata.
+
+1) Le [**esercitazioni**](#esercitazioni): una decina di lezioni online, assolutamente da seguire perché molto utili.  
+     
+- 100% necessario integrarle collo studio degli argomenti corrispondenti da un manuale – anche solo per stare al passo colle esercitazioni stesse  
+    
+2) Il tutorato, se non ti sono bastate le esercitazioni: utile per chiarire  
+     
+3) Materiali online… (ancora da aggiungere)
+
+---
+
+Grazie per l’attenzione e buon corso 😉
+
+[^1]:  I docenti su MyAriel suggeriscono: Luca Graverini, Marco Fucecchi, *La lingua latina. Fondamenti di morfologia e sintassi*, Firenze, Le Monnier, 2009 (e successive edizioni). Correzioni degli esercizi online a [questo link](https://www.mondadorieducation.it/content/uploads/2019/01/soluzioni_esercizi.zip?x19326) 
