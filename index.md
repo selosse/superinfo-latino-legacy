@@ -11,37 +11,37 @@
 
 [Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
 
-[Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
+   - [Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
 
-[Registrazioni](#registrazioni)
+   - [Registrazioni](#registrazioni)
 
 [Programma](#programma)
 
 [Esami](#esami)
 
-[✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
+   - [✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
 
-[Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
+      - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
 
-[Simulazioni su Myariel](#simulazioni-su-myariel)
+      - [Simulazioni su Myariel](#simulazioni-su-myariel)
 
-[🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
+   - [🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
 
-[Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
+      - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
 
 [Esercitazioni](#esercitazioni)
 
-[Info](#info)
+   - [Info](#info)
 
-[Tutorato](#tutorato)
+   - [Tutorato](#tutorato)
 
 [Materiali aggiuntivi su Ariel](#materiali-aggiuntivi-su-ariel)
 
 [😱 Non so nulla della lingua](#😱-non-so-nulla-della-lingua)
 
-[Livello base (latino zero / morfosintassi di base)](#livello-base-\(latino-zero-/-morfosintassi-di-base\))
+   - [Livello base (latino zero / morfosintassi di base)](#livello-base-\(latino-zero-/-morfosintassi-di-base\))
 
-[Livello avanzato (il resto della morfosintassi)](#livello-avanzato-\(il-resto-della-morfosintassi\))
+   - [Livello avanzato (il resto della morfosintassi)](#livello-avanzato-\(il-resto-della-morfosintassi\))
 
 # **Orario** {#orario}
 
