@@ -91,6 +91,8 @@ Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizza
 
 Il prof Mori registra le sue lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
 
+NB: Mori ha detto: **live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre
+
 ---
 
 # **Programma** {#programma}
@@ -104,9 +106,9 @@ Si può consultare su
 
 #### Validità programmi anni passati: messaggio pubblicato dal prof. Mori su Ariel:
 
-*Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di mettersi in contatto via email con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
+> *Gli studenti che intendono sostenere l'esame di Letteratura latina con istituzioni di lingua (A-H) e che portano programmi di corsi precedenti a quello di questo anno accademico sono pregati di mettersi in contatto via email con il prof. Mori ([roberto.mori@unimi.it](mailto:roberto.mori@unimi.it)).*
 
-*Gli studenti potranno portare **integralmente i programmi dei corsi degli a.a. 2022/23 e 2023/24 di cui era docente responsabile in prof. Raschieri,** mentre a partire dall'appello di dicembre 2024 non sarà più possibile sostenere l'esame portando integralmente i corsi degli a.a. 2020/21 e 2021/22: di questi ultimi rimangono valide le parti C (Virgilio, Eneide, libro VI) e D (Cicerone, Pro Caelio), mentre per le parti A e B bisognerà far riferimento al programma di questo anno accademico (Ovidio, Heroides 16 e 17).*
+> *Gli studenti potranno portare **integralmente i programmi dei corsi degli a.a. 2022/23 e 2023/24 di cui era docente responsabile in prof. Raschieri,** mentre a partire dall'appello di dicembre 2024 non sarà più possibile sostenere l'esame portando integralmente i corsi degli a.a. 2020/21 e 2021/22: di questi ultimi rimangono valide le parti C (Virgilio, Eneide, libro VI) e D (Cicerone, Pro Caelio), mentre per le parti A e B bisognerà far riferimento al programma di questo anno accademico (Ovidio, Heroides 16 e 17).*
 
 ---
 
@@ -119,10 +121,10 @@ Brano di 12 righe e poi domande di comprensione, lessico, e grammatica. No dizio
 
 ### Info ufficiali (da MyAriel) {#info-ufficiali-1}
 
-*L'esame prevede un test obbligatorio e preliminare di accertamento linguistico con **appelli a gennaio, maggio e settembre**.*  
-*Il test si svolge di norma in modalità informatica e consiste in **30 domande a risposta aperta o chiusa su grammatica, lessico e comprensione, a partire da un brano di prosa** latina d'autore. Il voto è espresso in 30/30 (risposta corretta \= 1; risposta sbagliata o mancante \= 0). Non è ammesso l'uso del vocabolario.*  
-*I risultati sono comunicati tempestivamente sul sito Ariel e il superamento della prova è valido per tre anni.*  
-*NB: Sono esonerati da tale prova gli studenti/studentesse che nella scuola superiore avessero conseguito la certificazione linguistica di 'Latino, livello B2'.*
+>*L'esame prevede un test obbligatorio e preliminare di accertamento linguistico con **appelli a gennaio, maggio e settembre**.*  
+>*Il test si svolge di norma in modalità informatica e consiste in **30 domande a risposta aperta o chiusa su grammatica, lessico e comprensione, a partire da un brano di prosa** latina d'autore. Il voto è espresso in 30/30 (risposta corretta \= 1; risposta sbagliata o mancante \= 0). Non è ammesso l'uso del vocabolario.*  
+>*I risultati sono comunicati tempestivamente sul sito Ariel e il superamento della prova è valido per tre anni.*  
+>*NB: Sono esonerati da tale prova gli studenti/studentesse che nella scuola superiore avessero conseguito la certificazione linguistica di 'Latino, livello B2'.*
 
 ### Simulazioni su Myariel {#simulazioni-su-myariel}
 
@@ -135,9 +137,9 @@ Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure,
 
 ### Info ufficiali (da MyAriel) {#info-ufficiali-2}
 
-*L'esame orale consiste in **quattro domande (una domanda su ciascuna delle parti del corso** – vedi il programma – più **una domanda sulla storia della letteratura**).*  
-*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
-*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
+>*L'esame orale consiste in **quattro domande (una domanda su ciascuna delle parti del corso** – vedi il programma – più **una domanda sulla storia della letteratura**).*  
+>*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
+>*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
 
 ---
 
