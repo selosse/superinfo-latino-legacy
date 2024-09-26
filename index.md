@@ -144,6 +144,29 @@ Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure,
 >*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
 >*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
 
+## Date
+
+Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
+
+#### Esami scritti (di pomeriggio dalle 14.30 in aula Cono2, via Noto)
+
+- giovedì 16 gennaio 2025
+- mercoledì 4 giugno 2025
+- giovedì 11 settembre 2025
+
+> Ricordo che chi frequenterà le esercitazioni di latino on line che partiranno il 30 settembre per almeno l'80% delle lezioni potrà sostenere la prova scritta intermedia di ottobre e la prova di dicembre.
+
+#### Esami orali 
+
+- 18 dicembre 2024 dalle 13.30 in M202;
+- 22 gennaio 2025 dalle 13.30 in FdP 510;
+- 5 febbraio 2025 dalle 13.30 in M 205;
+- 25 giugno 2025 dalle 13.30 in FdP 510;
+- 9 luglio 2025 dalle 8.30 in M 102;
+- 10 settembre 2025 alle 13.30 in FdP 510.
+
+> Le date degli orali si riferiscono al primo giorno di esami: eventuali code proseguiranno di norma il giorno successivo e/o quello dopo ancora. 
+
 ---
 
 # **Esercitazioni** {#esercitazioni}
