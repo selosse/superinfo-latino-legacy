@@ -6,17 +6,26 @@
 ### Sommario della pagina
 
 [Orario](#orario)
+
 [Info generali](#info-generali)
+
 [Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
+
    - [Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
+
    - [Registrazioni](#registrazioni)
+
 [Programma](#programma)
+
 [Esami](#esami)
+
    - [✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
       - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
       - [Simulazioni su Myariel](#simulazioni-su-myariel)
+
    - [🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
       - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
+
    - [Date](#date)
 
 [Esercitazioni](#esercitazioni)
