@@ -6,28 +6,18 @@
 ### Sommario della pagina
 
 [Orario](#orario)
-
 [Info generali](#info-generali)
-
 [Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
-
    - [Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
-
    - [Registrazioni](#registrazioni)
-
 [Programma](#programma)
-
 [Esami](#esami)
-
    - [✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
-
       - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
-
       - [Simulazioni su Myariel](#simulazioni-su-myariel)
-
    - [🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
-
       - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
+   - [Date](#date)
 
 [Esercitazioni](#esercitazioni)
 
@@ -144,7 +134,7 @@ Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure,
 >*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
 >*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
 
-## Date
+## Date {#date}
 
 Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
