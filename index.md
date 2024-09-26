@@ -1,9 +1,9 @@
 # Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
 
-🔴 Ultimo aggiornamento della pagina: 20 settembre 2024, 19.30  
+🔴 Ultimo aggiornamento della pagina: 26 settembre 2024, 15:30
 ⚠️ Strano ma vero, questa pagina non è stata creata da [CL / obiettivo studenti](https://www.instagram.com/ObiettivoStudenti/) ;) ma è condivisione libera e senza secondi fini 🙂
 
-##### Sommario della pagina
+### Sommario della pagina
 
 [Orario](#orario)
 
@@ -79,19 +79,22 @@ Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova
 
 ### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
 
-Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️ (al 20 settembre: 28 membri; il calendario è ancora vuoto).
+Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️. Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit).
 
-🔗 **Link gruppo**: [https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl) 
+🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
 
-**📅 Excel col calendario delle sbobine:** [📅 Calendario sbobine](https://docs.google.com/spreadsheets/d/1VPMe76KXXJClVq-_oLu7VwCMfnuZyfnGdaptPUa8npM/edit?usp=drive_link), sul drive
+**📅 Excel col calendario delle sbobine:** [📅 Calendario sbobine](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/), sul drive
+
+C'è anche un gruppo vecchio, non più utilizzato, lo riportiamo per informazione: ([**Link gruppo VECCHIO**](https://chat.whatsapp.com/IbszRruSnHYKiMfY3Hghtl))
 
 ### **Registrazioni** {#registrazioni}
 
 📂 **sotto-cartella del Drive, colle registrazioni fatte da noi**: [🎧 Registrazioni](https://drive.google.com/drive/folders/1I2bVwZyTHR-hDUkcApa31M8JUBL1OlsO?usp=drive_link)
 
-Il prof Mori registra le sue lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
+### Registrazioni dei moduli A-B-D, su Teams
+Il prof Mori e il prof Gioseffi (non la Formenti) registrano le loro lezioni; si trovano sul teams. (Microsoft Teams carica in automatico i video su microsoft Sharepoint: [link delle registrazioni delle parti A-B, prof Mori](https://unimi2013.sharepoint.com/sites/LetteraturalatinaconistituzionidilinguaA-HRaschieri/Documenti%20condivisi/Forms/AllItems.aspx?FolderCTID=0x01200079A6D25C304E6841B32B33D448E9EED4&id=%2Fsites%2FLetteraturalatinaconistituzionidilinguaA%2DHRaschieri%2FDocumenti%20condivisi%2FLezioni%20Mori%20%28unit%C3%A0%20A%2DB%29%2FRecordings))
 
-NB: Mori ha detto: **live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre
+NB: Mori ha detto: **faccio streaming live solo ad aula piena** (completamente prenotata); invece le registrazioni le fa sempre.
 
 ---
 
