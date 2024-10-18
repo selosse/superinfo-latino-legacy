@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/css/style.scss">
 # Info utili sul corso di **Letteratura latina (con istituzioni di lingua), range A-H**
 
 🔴 Ultimo aggiornamento della pagina: 26 settembre 2024, 15:30
@@ -75,8 +76,10 @@ Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova
 
 Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️. 
 
-Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit).
-{: .notice--info}
+
+<div class="alert note">
+Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel <a href="https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit"><em>calendario</em></a>.
+</div>
 
 🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
 
@@ -177,8 +180,10 @@ La professoressa / il professore spiegano uno o più concetti di morfosintassi l
 ## Info {#info-esercitazioni}
 
 **Data/ora**: lunedì sera, 18-19.30
-🔴 **Importante**: Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. <br></br>📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)" %}
-{: .notice--warning}
+
+<div class="alert important">
+🔴 **Importante**: Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. <br></br>📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)"
+</div>
 
 Frequentare dà la possibilità di accedere alle **prove intermedie:**   
 sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello ufficiale**. 
@@ -187,8 +192,9 @@ sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello uff
 - 21 Ottobre, aula Cono2, via Noto  
 - 9 Dicembre, aula Cono2, via Noto
 
+<div class="alert important">
 ⚠️ Iscriversi solo se si ha la ferma intenzione di dare l’esame quest’anno. C’è già stato terrorismo psicologico sul fatto che **se ci si iscrive quest’anno, non si può seguire l’anno prossimo\!** (pare, a causa di posti limitati).
-{: .notice--warning}
+</div>
 
 ### Tutorato {#tutorato}
 
@@ -213,8 +219,10 @@ Inoltre, ci sono [a questa pagina MyAriel](https://myariel.unimi.it/mod/folder/v
 Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non sei sol\* 🩷
 
 ## Livello base (latino zero / morfosintassi di base) {#livello-base}
+
+<div class="alert warning">
 ⚠️ ATTENZIONE: Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
-{: .notice--danger}
+</div>
 
 1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
 
