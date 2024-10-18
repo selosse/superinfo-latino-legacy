@@ -1,4 +1,4 @@
 title: My GitHub Pages Site
-description: A simple site made from a single markdown file
-theme: jekyll-theme-primer
+description: A site using alerts
+theme: jekyll-theme-documentation
 markdown: kramdown
