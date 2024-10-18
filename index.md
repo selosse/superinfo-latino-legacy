@@ -10,37 +10,31 @@
 [Info generali](#info-generali)
 
 [Registrazioni, sbobine e appunti](#registrazioni,-sbobine-e-appunti)
-
    - [Gruppo Whatsapp sbobine](#gruppo-whatsapp-sbobine)
-
    - [Registrazioni](#registrazioni)
 
 [Programma](#programma)
 
 [Esami](#esami)
 
-   - [✍️ Esame scritto, di lingua](#✍️-esame-scritto,-di-lingua)
-      - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\))
+   - [✍️ Esame scritto, di lingua](#esame-scritto)
+      - [Info ufficiali (da MyAriel)](#info-ufficiali-1)
       - [Simulazioni su Myariel](#simulazioni-su-myariel)
 
-   - [🗣️ Esame orale, di letteratura](#🗣️-esame-orale,-di-letteratura)
-      - [Info ufficiali (da MyAriel)](#info-ufficiali-\(da-myariel\)-1)
+   - [🗣️ Esame orale, di letteratura](#esame-orale)
+      - [Info ufficiali (da MyAriel)](#info-ufficiali-2)
 
-   - [Date](#date)
+   - [Date](#date-esami)
 
 [Esercitazioni](#esercitazioni)
-
-   - [Info](#info)
-
+   - [Info](#info-esercitazioni)
    - [Tutorato](#tutorato)
 
 [Materiali aggiuntivi su Ariel](#materiali-aggiuntivi-su-ariel)
 
-[😱 Non so nulla della lingua](#😱-non-so-nulla-della-lingua)
-
-   - [Livello base (latino zero / morfosintassi di base)](#livello-base-\(latino-zero-/-morfosintassi-di-base\))
-
-   - [Livello avanzato (il resto della morfosintassi)](#livello-avanzato-\(il-resto-della-morfosintassi\))
+[😱 Non so nulla della lingua](#aiuto-lingua)
+   - [Livello base (latino zero / morfosintassi di base)](#livello-base))
+   - [Livello avanzato (il resto della morfosintassi)](#livello-avanzato))
 
 # **Orario** {#orario}
 
@@ -74,11 +68,14 @@ C’è anche un altro gruppo (doppione, a [questo](https://chat.whatsapp.com/Bzf
 
 Anche dei semplici appunti sono graditi 🙂: per caricare e scaricare, si trova tutto sul drive\!
 
-🗂️ **sotto-cartella del Drive**: [✍️ Sbobine e appunti](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link)
+🗂️ **Cartella ["✍️ Appunti"](https://drive.google.com/drive/folders/16RASE5a3NU82-EixXsAX2-ABYno6kNPo?usp=drive_link)** sul drive
+🗂️ **Cartella ["📜 Sbobine"](https://drive.google.com/drive/folders/1Gau0B7H0rvAPBmWK9cYjhMqo1Y7I8gVq?usp=drive_link)
 
 ### **Gruppo Whatsapp sbobine** {#gruppo-whatsapp-sbobine}
 
-Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️. Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit).
+Chi vuole si può mettere d’accordo per **assegnarsi le sbobine e calendarizzare le trascrizioni**: usa il gruppo qui sotto ⬇️. 
+
+{% include note.html content="Se riesci, contribuisci anche tu a trascrivere una o più sbobine: per farlo, segnati prima nel [*calendario*](https://docs.google.com/spreadsheets/d/11MPG3XhOC4DzEA4Ny5sxwLaFqsJx4Ee_4wESB97Yos4/edit)." %}
 
 🔗 **Link del gruppo**: https://chat.whatsapp.com/B8BXz4CvJQLKgvSWkYReIR
 
@@ -143,7 +140,7 @@ Si può fare o la lettura metrica di una decina di versi scelti da loro; oppure,
 >*Gli studenti/studentesse dovranno dimostrare la loro capacità di presentare gli autori e le questioni fondamentali di letteratura latina e analizzare testi proposti a lezione o preparati autonomamente.*  
 >*Sono valutati la precisione nella lettura e nella traduzione, le competenze linguistiche e grammaticali, la proprietà di linguaggio e la qualità dell'esposizione, la capacità di organizzare le conoscenze acquisite, la capacità di proporre collegamenti fra parti diverse del programma o con discipline affini. Il voto è espresso in 30/30 (voto minimo per il superamento 18/30).*
 
-## Date {#date}
+## Date {#date-esami}
 
 Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
@@ -155,7 +152,7 @@ Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
 > Ricordo che chi frequenterà le esercitazioni di latino on line che partiranno il 30 settembre per almeno l'80% delle lezioni potrà sostenere la prova scritta intermedia di ottobre e la prova di dicembre.
 
-#### Esami orali 
+#### Esami orali
 
 - 18 dicembre 2024 dalle 13.30 in M202;
 - 22 gennaio 2025 dalle 13.30 in FdP 510;
@@ -170,30 +167,29 @@ Dal messaggio di Mori, pubblicato sulla bacheca di MyAriel il 25 settembre:
 
 # **Esercitazioni** {#esercitazioni}
 
-8 lezioni, online sul teams del corso. Prima lezione il 30 settembre, ultima il 25 novembre.   
+8 lezioni, online sul teams di ogni gruppo (sottoinsieme del teams del corso). Prima lezione il 30 settembre, ultima il 25 novembre.   
 Siamo divisi in 3 gruppi (sulla base del cognome) con 3 professori diversi.
 
 **Come funziona l’esercitazione?**  
 La professoressa / il professore spiegano uno o più concetti di morfosintassi latina avanzata ([vedi sotto](#livello-avanzato-\(il-resto-della-morfosintassi\))); si fanno poi degli esercizi assieme, si viene chiamati per nome e si deve rispondere (non è un problema sbagliare :)
 
-## Info {#info}
+## Info {#info-esercitazioni}
 
 **Data/ora**: lunedì sera, 18-19.30
-
-🔴 Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. (Al 20 settembre non è ancora avvenuto lo smistamento).
+{% include important.html content="🔴 Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. <br></br>📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)" %}
 
 Frequentare dà la possibilità di accedere alle **prove intermedie:**   
-sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello ufficiale**.  
-Date delle prove:
+sono scritti uguali a quelli ufficiali; **se passati non bisogna fare quello ufficiale**. 
 
+#### Date delle prove:
 - 21 Ottobre, aula Cono2, via Noto  
 - 9 Dicembre, aula Cono2, via Noto
 
-⚠️ Iscriversi solo se si ha la ferma intenzione di dare l’esame quest’anno. C’è già stato terrorismo psicologico sul fatto che **se ci si iscrive quest’anno, non si può seguire l’anno prossimo\!** (pare, a causa di posti limitati)
+{% include important.html content="⚠️ Iscriversi solo se si ha la ferma intenzione di dare l’esame quest’anno. C’è già stato terrorismo psicologico sul fatto che **se ci si iscrive quest’anno, non si può seguire l’anno prossimo\!** (pare, a causa di posti limitati)" %}
 
 ### Tutorato {#tutorato}
 
-Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica.
+Dopo la prova intermedia di ottobre verrà attivato anche il **tutorato**, ovvero corsi / ripetizioni extra, con lezioni dedicate ad ogni materia, che si possono frequentare **se si fa fatica colla parte di lingua** e grammatica (vedi [sotto](#aiuto-lingua)).
 
 ---
 
@@ -209,13 +205,12 @@ Inoltre, ci sono [a questa pagina MyAriel](https://myariel.unimi.it/mod/folder/v
 
 ---
 
-# **😱 Non so nulla della lingua** {#non-so-nulla-della-lingua}
+# **😱 Non so nulla della lingua** {#aiuto-lingua}
 
 Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non sei sol\* 🩷
 
 ## Livello base (latino zero / morfosintassi di base) {#livello-base}
-
-⚠️ Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
+{% include warning.html content="⚠️ ATTENZIONE: Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:" %}
 
 1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
 
@@ -226,15 +221,18 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
    \- 30 VIDEOLEZIONI sempre sue (durata media 8 minuti, [qui su Youtube](https://www.youtube.com/playlist?list=PLX0bvnnRgy7dgZUFViOc2FYQMZXve2wOI)): ricalcano il sito.
 
 ## Livello avanzato (il resto della morfosintassi) {#livello-avanzato}
-
+Il resto della morfosintassi, analisi del periodo (proposizioni varie), usi particolari.
 🔴 È **da raggiungere durante il corso, per capire quello che viene detto a lezione** quando si analizzano i testi. Necessario per l’esame.  
-Non ti preoccupare: i professori tengono conto che stiamo seguendo le esercitazioni, e quindi scopriamo pian piano la morfosintassi avanzata.
+Tuttavia, non ti preoccupare: i professori tengono conto che stiamo seguendo le esercitazioni, e che quindi scopriamo pian piano la morfosintassi avanzata. Molte cose sono spiegate anche direttamente a lezione.
 
 1) Le [**esercitazioni**](#esercitazioni): una decina di lezioni online, assolutamente da seguire perché molto utili.  
      
 - 100% necessario integrarle collo studio degli argomenti corrispondenti da un manuale – anche solo per stare al passo colle esercitazioni stesse  
     
-2) Il tutorato, se non ti sono bastate le esercitazioni: utile per chiarire  
+2) Il **tutorato**, se non ti sono bastate le esercitazioni: rispolvera le basi nelle prime lezioni, e puoi chiarire argomenti non ben compresi nelle lezioni rimanenti (gennaio). 
+- sarà online ([qui](https://myariel.unimi.it/mod/forum/discuss.php?d=25776) l'annuncio di Mori), non si sa ancora come.
+- non si sa ancora come ci si iscriverà.
+- [qui](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/31132/tutorato_latino_24_25.pdf) il calendario.
      
 3) Materiali online… (ancora da aggiungere)
 
