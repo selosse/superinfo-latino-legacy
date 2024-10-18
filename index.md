@@ -182,7 +182,8 @@ La professoressa / il professore spiegano uno o più concetti di morfosintassi l
 **Data/ora**: lunedì sera, 18-19.30
 
 <div class="alert important">
-🔴 **Importante**: Bisogna iscriversi col [modulo apposito su MyAriel](https://myariel.unimi.it/mod/choice/view.php?id=71045)  → poi si verrà smistati in 3 gruppi. <br></br>📄 [PDF con i gruppi](https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf)"
+<p>🔴 <strong>Importante</strong>: Bisogna iscriversi col <a href="https://myariel.unimi.it/mod/choice/view.php?id=71045">modulo apposito su MyAriel</a>  → poi si verrà smistati in 3 gruppi.</p>
+<p>📄 <a href="https://myariel.unimi.it/pluginfile.php/199890/mod_forum/attachment/27929/gruppi_esercitazioni_2024.pdf">PDF con i gruppi</a></p>
 </div>
 
 Frequentare dà la possibilità di accedere alle **prove intermedie:**   
@@ -221,7 +222,7 @@ Gran parte di noi sa il latino a livelli medio bassi, o non lo ha mai fatto. Non
 ## Livello base (latino zero / morfosintassi di base) {#livello-base}
 
 <div class="alert warning">
-⚠️ ATTENZIONE: Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che **il prima possibile**, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
+⚠️ ATTENZIONE: Se stai seguendo il corso di Letteratura latina, è FONDAMENTALE che <strong>il prima possibile</strong>, o almeno entro la fine delle lezioni a dicembre, tu abbia fatto una delle tre cose che seguono:
 </div>
 
 1) il **Corso Principianti** di latino, che si deve frequentare [se si ha ricevuto l’OFA](https://www.unimi.it/it/studiare/competenze-linguistiche/corsi-di-lingua-latina-principianti/ofa-latino-lettere) (obbligo formativo aggiuntivo) di latino, è una manna: ti porta da zero al livello pre-esercitazioni.
